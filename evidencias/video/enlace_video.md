@@ -1,9 +1,9 @@
 # Video demostrativo del prototipo GRIU
 
-**Enlace:** [URL del video]
+**Enlace:** https://youtu.be/oQZq4o5fSys
 
-**Duración:** __ min __ s (máximo 10 minutos)
-**Fecha de grabación:** __ / __ / 2026
+**Duración:** 10 min 00 s (máximo 10 minutos)
+**Fecha de grabación:** 19 / Nov / 2026
 **Participantes en cámara:** Andrés Felipe León Zuleta · María Isabel Irreño Marín · Camilo Durán Suárez
 
 ## Contenido del video
