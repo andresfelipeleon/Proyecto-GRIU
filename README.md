@@ -94,7 +94,7 @@ frames** que incluyen pantallas, modales y estados de interacción.
 
 ## 5. Video demostrativo
 
-**Enlace:** [URL del video] · Duración máxima: 10 minutos · Cámaras encendidas
+**Enlace:** https://youtu.be/oQZq4o5fSys · Duración máxima: 10 minutos · Cámaras encendidas
 
 Presenta el manejo y las funciones principales del prototipo: radicación de un
 incidente, consulta por código, gestión administrativa y visualización geográfica.
