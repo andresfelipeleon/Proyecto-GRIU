@@ -56,7 +56,7 @@ espaciales, HTML5/CSS3/Bootstrap/JavaScript sobre XAMPP.
 
 ## 4. Prototipo interactivo (Figma)
 
-**Enlace:** https://www.figma.com/proto/dJxD7bfTBqfYPDgdcoHXF4/Proyecto-GRIU-2.0?page-id=0%3A1&node-id=33-320&viewport=-1917%2C-195%2C0.13&t=XGCxUJrXjoNt6ULH-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=33%3A320
+**Enlace:** https://www.figma.com/proto/dJxD7bfTBqfYPDgdcoHXF4/Proyecto-GRIU-2.0?page-id=0%3A1&node-id=33-320&viewport=-1917%2C-195%2C0.13&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=33%3A320
 
 Se recorre en el **modo Presentar** del archivo (no en el modo de edición). El
 archivo se organiza en **13 secciones temáticas y 3 subsecciones**, con **204
